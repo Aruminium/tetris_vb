@@ -1,0 +1,11 @@
+#build_div
+.vs
+x64
+
+#log
+Log.txt
+
+#dependent_file
+tetris.vcxproj.user
+tetris.vcxproj.filters
+
